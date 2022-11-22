@@ -1,5 +1,5 @@
 # Todo app
-TODO application with the firebase database and recaptcha while deleting the tasks
+TODO application with the firebase database and recaptcha confirmation while deleting the tasks
 # Table of Contents
 
 1. [Installation](#installation)
